@@ -45,15 +45,15 @@ h4 {
 .small {
   width: 100%;
   height: 100%;
-  border: solid box-shadow;
+  border: solid;
 }
 
 .med {
   width: 203.5%;
-  border: solid box-shadow;
+  border: solid;
 }
 
 .large {
   width: 303%;
-  border: solid box-shadow;
+  border: solid;
 }
